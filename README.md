@@ -12,9 +12,16 @@
 ```
 CSA1714-AI/
 ├── CO-Assesments/
-│   ├── CO-1 AT-1.docx     # Warehouse Delivery Robot Analytical Report (Word)
-│   ├── CO-1 AT-1.pdf      # Warehouse Delivery Robot Analytical Report (PDF)
-│   └── ReadMe File
+│   ├── Assignment-1/
+│   │   ├── Assignment-1_Bhuvanesh_H.pdf  # Comprehensive Analytical & Experimental Report (PDF)
+│   │   ├── hospital_robot_search.py     # Uninformed Search Algorithms & Benchmark Suite
+│   │   ├── CO-1 AT-1.pdf                # Problem Statement & Task Specification
+│   │   └── Guidelines for preparing Assignments.pdf
+│   └── Assignment-2/
+│       ├── Assignment-2_Bhuvanesh_H.pdf  # Comprehensive Analytical & Experimental Report (PDF)
+│       ├── informed_csp_adversarial.py  # Informed Search, CSP, Alpha-Beta, TSP & Transposition Table
+│       ├── Assignment-2.pdf             # Problem Statement & Task Specification
+│       └── Guidelines for preparing Assignments.pdf
 └── Lab Exercises/
     ├── Exp-1.py  & Exp-1.png   # 8-Puzzle Problem (BFS)
     ├── Exp-2.py  & Exp-2.png   # 8-Queens Problem (Backtracking)
@@ -42,6 +49,13 @@ CSA1714-AI/
     ├── Exp-24.pl & Exp-24.png  # Family Tree and Relationship Reasoning (Prolog)
     └── Exp-25.pl & Exp-25.png  # Medical Diagnostic and Diet Suggestion System (Prolog)
 ```
+
+## Course Outcome (CO) Assessments
+
+| Assessment | Outcome | Title | Key Topics Covered | Report & Source |
+| :---: | :---: | :--- | :--- | :--- |
+| **Assignment 1** | **CO1** | Hospital Medicine-Delivery Robot Uninformed Search Strategy | PEAS formulation, Environment classification, BFS vs UCS vs IDDFS mathematical complexity derivations, Empirical scaling benchmarks, Memory exhaustion threshold, Sensor uncertainty & Belief State search | [Assignment-1 PDF](CO-Assesments/Assignment-1/Assignment-1_Bhuvanesh_H.pdf)<br>[`hospital_robot_search.py`](CO-Assesments/Assignment-1/hospital_robot_search.py) |
+| **Assignment 2** | **CO2** | Informed Search, CSP, Adversarial Search & Optimization | UCS vs Greedy Best-First vs A* across map topologies, Online search agent & competitive ratio, Alpha-Beta move ordering, Minimax depth scaling, AC-3 constraint propagation for exam timetabling, TSP Exhaustive vs 2-Opt local search, Day-4 Transposition Table caching redesign | [Assignment-2 PDF](CO-Assesments/Assignment-2/Assignment-2_Bhuvanesh_H.pdf)<br>[`informed_csp_adversarial.py`](CO-Assesments/Assignment-2/informed_csp_adversarial.py) |
 
 ## Lab Exercises Overview
 
