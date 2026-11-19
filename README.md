@@ -47,7 +47,10 @@ CSA1714-AI/
     ├── Exp-22.pl & Exp-22.png  # Towers of Hanoi Problem (Prolog)
     ├── Exp-23.pl & Exp-23.png  # Bird and Flying Ability Knowledge Base (Prolog)
     ├── Exp-24.pl & Exp-24.png  # Family Tree and Relationship Reasoning (Prolog)
-    └── Exp-25.pl & Exp-25.png  # Medical Diagnostic and Diet Suggestion System (Prolog)
+    ├── Exp-25.pl & Exp-25.png  # Medical Diagnostic and Diet Suggestion System (Prolog)
+    ├── Exp-26.pl & Exp-26.png  # Monkey Banana Problem (Prolog)
+    ├── Exp-27.pl & Exp-27.png  # Fruit and Color Knowledge Base (Prolog)
+    └── Exp-28.pl & Exp-28.png  # Best-First Search Algorithm (Prolog)
 ```
 
 ## Course Outcome (CO) Assessments
@@ -86,6 +89,9 @@ CSA1714-AI/
 | **23** | Knowledge Representation | Bird Flying Ability with Negation as Failure |
 | **24** | Relational Reasoning | Family Tree & Ancestry Rules |
 | **25** | Rule-Based Diagnostic System | Disease & Dietary Recommendation Engine |
+| **26** | Monkey Banana Problem | State Space Planning (Prolog) |
+| **27** | Fruit and Color Database | Knowledge Base Querying (Prolog) |
+| **28** | Best-First Search | Heuristic Search on Graph (Prolog) |
 
 ## Environment
 - **Operating System:** Windows 11
