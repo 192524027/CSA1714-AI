@@ -23,7 +23,6 @@ CSA1714-AI/
 │       ├── Assignment-2.pdf             # Problem Statement & Task Specification
 │       └── Guidelines for preparing Assignments.pdf
 ├── ModelExam/
-│   ├── README.md                        # Model Practical Examination (SET 1) Solutions
 │   └── SET-1/
 │       ├── Q1_IDDFS.py                  # Iterative Deepening DFS (Python)
 │       ├── Q2_4_Queens.py              # 4-Queens Backtracking Solver (Python)
