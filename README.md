@@ -23,12 +23,12 @@ CSA1714-AI/
 │       ├── Assignment-2.pdf             # Problem Statement & Task Specification
 │       └── Guidelines for preparing Assignments.pdf
 ├── ModelExam/
-│   ├── README.md                        # Model Practical Examination Overview & Solutions
+│   ├── README.md                        # Model Practical Examination (SET 1) Solutions
 │   └── SET-1/
-│       ├── Q1_IDDFS.py & Q1_IDDFS.png              # Iterative Deepening DFS (Python)
-│       ├── Q2_4_Queens.py & Q2_4_Queens.png        # 4-Queens Backtracking Solver (Python)
-│       ├── Q3_Student_Database.pl & .png           # Student Database Knowledge Base (Prolog)
-│       └── Q4_City_Path_DFS.pl & .png              # Depth-First City Path Traversal (Prolog)
+│       ├── Q1_IDDFS.py                  # Iterative Deepening DFS (Python)
+│       ├── Q2_4_Queens.py              # 4-Queens Backtracking Solver (Python)
+│       ├── Q3_Student_Database.pl       # Student Database Knowledge Base (Prolog)
+│       └── Q4_City_Path_DFS.pl          # Depth-First City Path Traversal (Prolog)
 └── Lab Exercises/
     ├── Exp-1.py  & Exp-1.png   # 8-Puzzle Problem (BFS)
     ├── Exp-2.py  & Exp-2.png   # 8-Queens Problem (Backtracking)
@@ -79,12 +79,12 @@ CSA1714-AI/
 
 ## Model Practical Examination
 
-| Set | Question | Problem Description | Implementation | Code & Proof |
+| Set | Question | Problem Description | Implementation | Source Code |
 | :---: | :---: | :--- | :--- | :--- |
-| **SET 1** | **Q1** | **Iterative Deepening Depth First Search (IDDFS)** for state-space graph | Python 3.11 | [`Q1_IDDFS.py`](ModelExam/SET-1/Q1_IDDFS.py)<br>[`Q1_IDDFS.png`](ModelExam/SET-1/Q1_IDDFS.png) |
-| **SET 1** | **Q2** | **4-Queens Problem** using Backtracking technique | Python 3.11 | [`Q2_4_Queens.py`](ModelExam/SET-1/Q2_4_Queens.py)<br>[`Q2_4_Queens.png`](ModelExam/SET-1/Q2_4_Queens.png) |
-| **SET 1** | **Q3** | **Student Database Knowledge Base** with Department & Age rules | SWI-Prolog 10.0.2 | [`Q3_Student_Database.pl`](ModelExam/SET-1/Q3_Student_Database.pl)<br>[`Q3_Student_Database.png`](ModelExam/SET-1/Q3_Student_Database.png) |
-| **SET 1** | **Q4** | **Depth-First Backtracking** for finding paths between connected cities | SWI-Prolog 10.0.2 | [`Q4_City_Path_DFS.pl`](ModelExam/SET-1/Q4_City_Path_DFS.pl)<br>[`Q4_City_Path_DFS.png`](ModelExam/SET-1/Q4_City_Path_DFS.png) |
+| **SET 1** | **Q1** | **Iterative Deepening Depth First Search (IDDFS)** for state-space graph | Python 3.11 | [`Q1_IDDFS.py`](ModelExam/SET-1/Q1_IDDFS.py) |
+| **SET 1** | **Q2** | **4-Queens Problem** using Backtracking technique | Python 3.11 | [`Q2_4_Queens.py`](ModelExam/SET-1/Q2_4_Queens.py) |
+| **SET 1** | **Q3** | **Student Database Knowledge Base** with Department & Age rules | SWI-Prolog 10.0.2 | [`Q3_Student_Database.pl`](ModelExam/SET-1/Q3_Student_Database.pl) |
+| **SET 1** | **Q4** | **Depth-First Backtracking** for finding paths between connected cities | SWI-Prolog 10.0.2 | [`Q4_City_Path_DFS.pl`](ModelExam/SET-1/Q4_City_Path_DFS.pl) |
 
 ## Lab Exercises Overview
 
