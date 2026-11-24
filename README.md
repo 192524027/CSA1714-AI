@@ -50,7 +50,17 @@ CSA1714-AI/
     ├── Exp-25.pl & Exp-25.png  # Medical Diagnostic and Diet Suggestion System (Prolog)
     ├── Exp-26.pl & Exp-26.png  # Monkey Banana Problem (Prolog)
     ├── Exp-27.pl & Exp-27.png  # Fruit and Color Knowledge Base (Prolog)
-    └── Exp-28.pl & Exp-28.png  # Best-First Search Algorithm (Prolog)
+    ├── Exp-28.pl & Exp-28.png  # Best-First Search Algorithm (Prolog)
+    ├── Exp-29.pl & Exp-29.png  # Medical Diagnostic Expert System (Prolog)
+    ├── Exp-30.py & Exp-30.png  # Linear Regression Algorithm (Python)
+    ├── Exp-31.py & Exp-31.png  # K-Nearest Neighbors (KNN) Classification (Python)
+    ├── Exp-32.py & Exp-32.png  # Decision Tree Classification (Python)
+    ├── Exp-33.py & Exp-33.png  # Sentiment Analysis using TextBlob NLP (Python)
+    ├── Exp-34.py & Exp-34.png  # Genetic Algorithm for Optimization (Python)
+    ├── Exp-35.py & Exp-35.png  # Support Vector Machine (SVM) Classification (Python)
+    ├── Exp-36.py & Exp-36.png  # Principal Component Analysis (PCA) Dimensionality Reduction (Python)
+    ├── Exp-37.py & Exp-37.png  # Collaborative Filtering Recommendation System (Python)
+    └── Exp-38.py & Exp-38.png  # K-Means Clustering Algorithm (Python)
 ```
 
 ## Course Outcome (CO) Assessments
@@ -92,6 +102,16 @@ CSA1714-AI/
 | **26** | Monkey Banana Problem | State Space Planning (Prolog) |
 | **27** | Fruit and Color Database | Knowledge Base Querying (Prolog) |
 | **28** | Best-First Search | Heuristic Search on Graph (Prolog) |
+| **29** | Medical Diagnostic System | Knowledge-Based Expert System (Prolog) |
+| **30** | Linear Regression | Supervised Continuous Prediction (scikit-learn) |
+| **31** | K-Nearest Neighbors (KNN) | Distance-Based Classification (scikit-learn) |
+| **32** | Decision Tree Classifier | Information-Theoretic Classification (scikit-learn) |
+| **33** | Sentiment Analysis | Natural Language Processing (TextBlob) |
+| **34** | Genetic Algorithm | Evolutionary Optimization |
+| **35** | Support Vector Machine (SVM) | Maximal Margin Classification (scikit-learn) |
+| **36** | Principal Component Analysis | Unsupervised Dimensionality Reduction (PCA) |
+| **37** | Collaborative Filtering | User-Based Cosine Similarity Recommender |
+| **38** | K-Means Clustering | Unsupervised Centroid Clustering (scikit-learn) |
 
 ## Environment
 - **Operating System:** Windows 11
